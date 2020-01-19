@@ -2,6 +2,10 @@
 
 ### import necessary packages
 
+### PHYS 490
+### Sachin Beepath 
+### 20613204
+
 import numpy as np
 import matplotlib.pyplot as plt
 import math
