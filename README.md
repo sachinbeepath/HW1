@@ -13,5 +13,5 @@
 To run `main.py`, use
 
 ```sh
-python main.py data/filename.in data/filename.json
+python3 main.py data/filename.in data/filename.json
 ```
