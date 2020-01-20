@@ -1,4 +1,17 @@
-# HW1
-Sachin Beepath
-20613204
-PHYS 490 Homework 1 Repo
+# Assignment *1*
+
+- name: *Sachin Beepath*
+- student ID: *20613204*
+
+## Dependencies
+
+- json
+- numpy
+
+## Running `main.py`
+
+To run `main.py`, use
+
+```sh
+python main.py data/filename.in data/filename.json
+```
